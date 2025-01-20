@@ -1,0 +1,1 @@
+Write a program for Deadlock detection using resource allocation graph for a single quantity of each resources using a cycle detection algorithm.
